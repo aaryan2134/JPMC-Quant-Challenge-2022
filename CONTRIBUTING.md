@@ -2,6 +2,10 @@
 
 When contributing to this repository, please feel free to discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
+## What can you contribute?
+
+There are numerous ways to contribute to this project, like providing solutions with explanations, fixing any errors, adding missing information, codes, links to online answers for any of the problems, and so on.
+
 ## How do I make a contribution?
 
 If you've never made an open source contribution before or you are wondering how contributions work in our project? Here's a quick rundown!
@@ -40,7 +44,7 @@ If you've never made an open source contribution before or you are wondering how
     ```
 
 10. Submit a pull request to the upstream repository.
-11. Title the pull request with a short description of the changes you made and **request a review from a maintainer/reviewer**. For example, you can title an issue like so "Added John Doe to the project". In the description of the pull request, be sure to explain the changes that you made and any questions you have for the maintainer. It's OK if your pull request is not perfect (no pull request is), the reviewer will be able to help you fix any problems and improve it!
+11. Title the pull request with a short description of the changes you made and **request a review from a maintainer/reviewer**. For example, you can title an issue like so "Added New Derivative Modelling Questions". In the description of the pull request, be sure to explain the changes that you made and any questions you have for the maintainer. It's OK if your pull request is not perfect (no pull request is), the reviewer will be able to help you fix any problems and improve it!
 12. Wait for the pull request to be reviewed by a maintainer.
 13. Make changes to the pull request if the reviewing maintainer recommends them.
 14. Celebrate your success after your pull request is merged! 🎉
@@ -49,17 +53,4 @@ If you've never made an open source contribution before or you are wondering how
 
   **GitHub**: [Aaryan Arora](https://github.com/aaryan2134) <br>
   **Email**: aaryan2134@gmail.com <br>
-  **Quora**: https://www.quora.com/profile/Aaryan-Arora-3 <br>
   **Linkedin**: https://www.linkedin.com/in/aaryan-arora-a956b8203/
-
-### Our Responsibilities
-
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
-
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned with this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
