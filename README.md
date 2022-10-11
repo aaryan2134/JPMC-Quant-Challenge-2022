@@ -30,5 +30,4 @@ Shortlisted participants from each problem section will be invited for an on-sit
 # Contributing
 If there are any missed questions or any error please do let me know. 
 <br> </br>
-Your can contribute by providing explanations, solutions, codes etc for any of the problems.
-
+Your can contribute by providing explanations, solutions, codes etc for any of the problems. Just create a directory for your solution for any question you wish to solve.
