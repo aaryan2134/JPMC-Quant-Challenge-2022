@@ -14,7 +14,7 @@ If you've never made an open source contribution before or you are wondering how
 2. Clone the repository to your local machine using by copying the link provided under `HTTPS` when you click on the green button labeled `code` on the repository page
 
     ```sh
-    $ git clone https://github.com/<your-GitHub-username>/Url-Shortener-API.git
+    $ git clone https://github.com/<your-GitHub-username>/JPMC-Quant-Challenge-2022
     ```
 
 4. Create a new branch for your changes or fix 
